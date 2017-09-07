@@ -1,7 +1,8 @@
-#Fundamentos de la dinámica de fluidos computacional @ USM
+﻿# Fundamentos de la dinámica de fluidos computacional @ USM
 
 Este repositorio contiene material para los laboratorios del curso *Fundamentos de la Dinámica de Fluidos Computacional*, del Departamento de Ingeniería Mecánica de la Universidad Técnica Federico Santa María. El curso es impartido a alumnos de pregrado en su décimo semestre.
 
+Esto es una modificacion
 
 Profesores:
 
